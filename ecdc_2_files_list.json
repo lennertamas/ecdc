@@ -1,0 +1,10 @@
+[
+    {
+        "sourceRalativeUrl":"ecdc/blob/main/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceRalativeUrl":"ecdc/blob/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    }
+]
